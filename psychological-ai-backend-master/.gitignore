@@ -1,0 +1,4 @@
+.idea
+env
+api/voice_to_voice/recording
+api/voice_to_voice/classify

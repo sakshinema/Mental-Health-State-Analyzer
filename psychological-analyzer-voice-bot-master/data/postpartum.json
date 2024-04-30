@@ -1,0 +1,71 @@
+{
+    "I have been able to laugh and see the funny side of things":[
+        ["as much as i always could","0"],
+        ["not quite so much now","1"],
+        ["definitely not so much now","2"],
+        ["not at all","3"]
+    ],
+
+    "I have looked forward with enjoyment to things":[
+        ["as much as i ever did","0"],
+        ["rather less than i used to","1"],
+        ["definitely less than i used to","2"],
+        ["hardly at all","3"]
+    ],
+
+    "I have blamed myself unnecessarily when things No not at all went wrong":[
+        ["most of the time","3"],
+        ["some of the time","2"],
+        ["not very often","1"],
+        ["never","0"]
+    ],
+
+    "I have been anxious or worried for no good reason":[
+        ["not at all","0"],
+        ["hardly ever","1"],
+        ["sometimes","2"],
+        ["very often","3"]
+    ],
+
+    "I have felt scared or panicky for no very good reason":[
+        ["quite a lot","3"],
+        ["sometimes","2"],
+        ["not much","1"],
+        ["not at all","0"]
+    ],
+
+    "Things have been getting on top of me":[
+        ["most of the time I have not been able to cope at all","3"],
+        ["sometimes i hav not been coping as well as usual","2"],
+        ["nost of the time I have coped quite well","1"],
+        ["I have been coping as well as ever","0"]
+    ],
+
+    "I have been so unhappy that I have had difficulty sleeping":[
+        ["most of the time","3"],
+        ["sometimes","2"],
+        ["not very often","1"],
+        ["not at all","0"]
+    ],
+
+    "I have felt sad or miserable":[
+        ["most of the time","3"],
+        ["sometimes","2"],
+        ["not very often","1"],
+        ["not at all","0"]
+    ],
+
+    "I have been so unhappy that i have been crying":[
+        ["most of the time","3"],
+        ["sometimes","2"],
+        ["only occasionally","1"],
+        ["never","0"]
+    ],
+
+    "the thought of harming myself has occured to me":[
+        ["quite often","3"],
+        ["sometimes","2"],
+        ["hardly ever","1"],
+        ["never","0"]
+    ]
+}

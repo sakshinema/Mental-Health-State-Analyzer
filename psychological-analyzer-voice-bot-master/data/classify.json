@@ -1,0 +1,103 @@
+{
+    "How many hours do you sleep per day":[
+        ["Less than 4 hours","2anxiety","2ocd"],
+        ["4 to 6 hours","1anxiety","1ocd"],
+        ["7 to 10 hours"],
+        ["10 + hours","1depression"]
+    ],
+    "How is your quality of sleep" : [
+        ["Very bad","2anxiety","2depression","2ocd","2did"],
+        ["Bad","1anxiety","1depression","1ocd","1did"],
+        ["Good/Very good"]
+    ],
+    "Feeling suddenly scared for no reason":[
+        ["Extremely","4anxiety"],
+        ["Frequently","3anxiety"],
+        ["Moderately","2anxiety"],
+        ["A little","1anxiety"],
+        ["Not at all"]
+    ],
+    "Nervousness or shakiness or feeling of  terror or panic inside":[
+        ["Yes","1anxiety"],
+        ["No"]
+    ],
+    "Thoughts of ending your life":[
+        ["Yes","2suicidal","1depression"],
+        ["No"]
+    ],
+    "Feelings of being trapped or caught":[
+        ["Yes","2depression"],
+        ["No"]
+    ],
+    "Feeling lonely":[
+        ["Yes","1depression"],
+        ["No"]
+    ],
+    "Do you find that you have flashbacks By that I mean very vivid daydreams or what we may call a daymare about the event":[
+        ["Yes","2ptsd"],
+        ["Sometimes","1ptsd"],
+        ["No"]
+    ],
+    "Activity or situation that reminds you of a particular event, does that trigger a very large and adverse response in you":[
+        ["Yes","1ptsd"],
+        ["No"]
+    ],
+    "Ever felt numb or detached from others activities or your surroundings":[
+        ["Yes","1ptsd","2schizophrenia","1depression"],
+        ["Sometimes","1ptsd","1schizophrenia"],
+        ["No"]
+    ],
+    "Do you have unusual experiences such as hearing voices that other people cannot hear or  have unusual ideas that people you do not even know are plotting to harm or kill you":[
+        ["Yes","3schizophrenia"],
+        ["sometimes","2schizophrenia"],
+        ["No"]
+    ],
+    "Is there any unusual or repetitive activity that keeps bothering you that you’d like to get rid of but can not":[
+        ["Yes","1ocd"],
+        ["No"]
+    ],
+    "Are you concerned about not being able to follow the routine or do you worry about others if they do not follow a fixed routine":[
+        ["Yes","2ocd"],
+        ["sometimes"],
+        ["No"]
+    ],
+    "Avoids work assignments projects at work or leaves projects unfinished":[
+        ["Yes","1adhd"],
+        ["No"]
+    ],
+    "Do you have difficulty concentrating on what people say to you even when they are speaking to you directly":[
+        ["Yes","2adhd"],
+        ["Sometimes","1adhd"],
+        ["No"]
+    ],
+    "How often do you depend on others to keep your life in order and attend to details":[
+        ["Often","2adhd"],
+        ["sometimes","1adhd"],
+        ["No"]
+    ],
+    "Ever felt that It is not clear whether you have completed an action for example making a call or whether you just thought about completing the action":[
+        ["Yes","2did"],
+        ["sometimes","1did"],
+        ["No"]
+    ],
+    "Do you remember important moments in your life like getting married having a baby graduating from high school etc":[
+        ["Yes"],
+        ["I am unable to remember some moments","1did"],
+        ["I remember few or even less of them","2did"]
+    ],
+    "Are you pregnant or recently had a baby":[
+        ["Yes","1postpartum"],
+        ["No"]
+    ],
+    "Have you been anxious worried scared or panic for no good reason":[
+        ["Yes","2postpartum"],
+        ["sometimes","1postpartum"],
+        ["no"]
+    ],
+    "Do things get on top of you or ever had thought of harming yourself":[
+        ["Usually","2postpartum"],
+        ["sometimes","1postpartum"],
+        ["rarely"]
+    ]
+
+}

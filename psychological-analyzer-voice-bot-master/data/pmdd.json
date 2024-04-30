@@ -1,0 +1,41 @@
+{
+    "Before the onset of your period do you experience a fluctuating mood notable feelings of sadness or hopelessness irritability and anger and or become extremely anxious":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "In the week before your period do you notice that you lack interest in activities you usually enjoy such as going out with friends your hobbies or your job":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "Prior to menstruation do you find it more difficult to concentrate or focus on tasks":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "Do you feel lethargic or get tired more easily in the week leading up to your period in comparison to the rest of your cycle":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "When you are due on your period are you more likely to indulge in overeating or crave certain foods":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "Many women with PMDD report experiencing hypersomnia or insomnia before menses Do you find yourself to be either excessively sleepy or unable to sleep during this time":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "Before your period begins do you feel overwhelmed or out of control":[
+        ["yes","1"],
+        ["no","0"]
+    ],
+
+    "In the week prior to menstruation do you experience physical symptoms such as breast tenderness or swelling joint or muscle pain bloating or weight gain":[
+        ["yes","1"],
+        ["no","0"]
+    ]
+}

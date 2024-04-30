@@ -1,0 +1,81 @@
+    {
+    "How much time do you spend on obsessive thoughts":[
+        ["None","0"],
+        ["0 to 1 hours","1"],
+        ["1 to 3 hours","2"],
+        ["3 to 8 hours","3"],
+        ["more than 8 hours","4"]
+    ],
+
+    "How much do your obsessive thoughts interfere with your personal social or work life":[
+        ["None","0"],
+        ["Mild","1"],
+        ["Definite by manageable","2"],
+        ["Substantial interference","3"],
+        ["severe","4"]
+    ],
+
+    "How much do your obsessive thoughts distress you":[
+      ["None","0"],
+      ["Little","1"],
+      ["Moderate but manageable","2"],
+      ["severe","3"],
+      ["Nearly constant","4"]  
+    ],
+
+    "How hard do you try to resist your obsessions":[
+        ["Always try","0"],
+        ["Try much of the time","1"],
+        ["Try some of the time","2"],
+        ["rarely try","3"],
+        ["never try","4"]
+    ],
+
+    "How much control do you have over your obsessive thought":[
+        ["complete control","0"],
+        ["much cotrol","1"],
+        ["some control","2"],
+        ["little control","3"],
+        ["No control","4"]
+    ],
+
+    "How much time do you spend performing compulsive behaviors":[
+        ["None","0"],
+        ["0 to 1 hours","1"],
+        ["1 to 3 hours","2"],
+        ["3 to 8 hours","3"],
+        ["more than 8 hours","4"]
+    ],
+
+    "How much do your compulsive behaviors interfere with your personal social or work life":[
+        ["None","0"],
+        ["Mild","1"],
+        ["Definite by manageable","2"],
+        ["Substantial interference","3"],
+        ["severe","4"]
+    ],
+
+    "How anxious would you feel if you were prevented from performing your compulsive behaviors":[
+        ["None","0"],
+        ["Little","1"],
+        ["Moderate but manageable","2"],
+        ["severe","3"],
+        ["Nearly constant","4"]  
+    ],
+
+    "How hard do you try to resist your compulsive behaviors":[
+        ["Always try","0"],
+        ["Try much of the time","1"],
+        ["Try some of the time","2"],
+        ["rarely try","3"],
+        ["never try","4"]
+    ],
+
+    "How much control do you have over your compulsive behaviors":[
+        ["complete control","0"],
+        ["much cotrol","1"],
+        ["some control","2"],
+        ["little control","3"],
+        ["No control","4"]
+    ]
+}

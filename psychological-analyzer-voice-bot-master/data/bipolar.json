@@ -1,0 +1,109 @@
+{
+    "At times I am much more talkative or speak much faster than usual":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "There have been times when I was much more active or did many more things than usual":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "I get into moods where I feel very speeded up or irritable":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "There have been times when I have felt both elated and depressed at the same time":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "At times I have been much more interested in sex than usual":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "My self-confidence ranges from great selfdoubt to equally great overconfidence":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "There have been GREAT variations in the quantity or quality of my work":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "For no apparent reason I sometimes have been VERY angry or hostile":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "I have periods of mental dullness and other periods of very creative thinking":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "At times I am greatly interested in being with people and at other times I just want to be left alone with my thoughts":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "I have had periods of great optimism and other periods of equally great pessimism":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ],
+
+    "I have had periods of tearfulness and crying and other times when I laugh and joke excessively":[
+        ["Not at all","0"],
+        ["Just a little","1"],
+        ["somewhat","2"],
+        ["Moderately","3"],
+        ["quite a lot","4"],
+        ["very much","5"]
+    ]
+}

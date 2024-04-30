@@ -1,0 +1,121 @@
+{
+    "What has your mood been like this past week-Have you been feeling worried or anticipating the worst-Have you had feelings of fearful anticipation or irritability":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "In the past week have you had any feelings of tension or fatigability-Have you startled easily-Have you been moved to tears easily? Any trembling-Any feelings of restlessness or feeling unable to relax":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "In the past week have you felt fearful of the dark Fearful of strangers Of being left alone Of animals Of traffic Of crowds":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "How have you been sleeping over the past week-Have you had any difficulty or trouble falling asleep in the beginning of the night-How long has it been taking you to fall asleep compared to usual-How about feeling that your sleeping has been restless disturbed or unsatisfying some nights-Have you been waking up in the middle of the night-Have you felt tired or fatigued upon waking in the morning-Any bad dreams nightmares or night terrors":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "In the past week have you had difficulty concentrating while reading a book or magazine watching television having a conversation driving etc-Have you had any difficulty remembering things-How has your memory been compared to usual before you began feeling anxious":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "In the past week have you had any depressed feelings down sad blue hopeless crying a lot etc How about feeling a loss of interest or lack of pleasure in hobbies or other daily activities-Any early morning awakening-How about feeling better or worse at any particular time of day for example in the morning or the evening-How much worse do you feel in the am or pm":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "How have you been feeling physically the past week-Have you experienced any of the following- pains and aches twitching of your muscles any stiffness grinding of your teeth an unsteady voice increased muscular tone muscle contractions or jerking":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "Have you experienced any ringing in your ears over the past week-How about buzzing clicking or roaring sounds Any blurring of your vision Hot and cold flashes Feelings of physical weakness A pricking sensation":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "Over the past week have you experienced an increase in your heart rate or felt your heart beating rapidly Have you had any pain in your chest Throbbing of your vessels Feelings that you might faint Have you felt your heart missing beats":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "In the past week have you experienced any pressure or constriction in your chest Any choking feelings More sighing than usual Any difficult or labored breathing Shortness of breath":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "Over the past week have you experienced any abdominal-stomach pain or discomfort Have you had any difficulty in swallowing More wind than usual Any burning sensations in your abdomen Any feelings of abdominal fullness or feeling distended Any feeling of nausea Vomiting Any rumbling or noises in your stomach more than is usual for you Any looseness of the bowels or diarrhea Any constipation":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "How about loss of weight":[
+        ["Less than 1 pound","0"],
+        ["1 to 2 pounds","1"],
+        ["2 to 4 pounds","2"],
+        ["more than 4 pounds","3"],
+        ["incapacitating","4"]
+    ],
+
+    "In the past week have you been urinating more frequently than is usual for you Have you felt a greater urgency to urinate than is usual for you Have you experienced an absence or abnormal stoppage of you menses or period How about excessive flow or bleeding during you menses or period Have you felt sexually cold or unresponsive during the past week Any loss of sexual interest or drive Have you experienced premature ejaculation Have you experienced sexual impotence":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "In the past week have you experienced any of the following symptoms- dry mouth more sweating than usual flushing pallour dizziness tension headache raising of hair":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ],
+
+    "Is there presence of any of the following symptoms and-or behaviours during the interview- fidgeting restlessness or pacing tremor of hands furrowed brow strained face sighing or rapid breathing facial pallor swelling belching brisk tendon jerks dilated pupils protruding eyes":[
+        ["No","0"],
+        ["occurs irregularly","1"],
+        ["occurs more constantly","2"],
+        ["continously","3"],
+        ["very severe","4"]
+    ]
+}

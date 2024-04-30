@@ -1,0 +1,121 @@
+{
+    "do you think that you have felt that there are odd or unusual things going on that you cannot explain":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "do you think that you might be able to predict the future":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "you may have felt that there could possibly be something interrupting or controlling your thoughts feelings or actions":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]  
+    ],
+
+    "do you had the experience of doing something differently because of your superstitions":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "do you think that you may get confused at times whether something you experience or perceive may be real or may be just part of your imagination or dreams":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "Do you have thought that it might be possible that other people can read your mind or that you can read others minds":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "Do you wonder if people may be planning to hurt you or even may be about to hurt you":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "Do you believe that you have special natural or supernatural gifts beyond my talents and natural strengths":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "Do you think you might feel like your mind is playing tricks on you":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "Do you had the experience of hearing faint or clear sounds of people or a person mumbling or talking when there is no one near me":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "Do you think that you may hear your own thoughts being said out loud":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ],
+
+    "are you concerned that you might be going crazy":[
+        ["Definitely disagree","0"],
+        ["Somewhat disagree","1"],
+        ["Slightly disagree","2"],
+        ["Not sure","3"],
+        ["Slightly agree","4"],
+        ["Somewhat agree","5"],
+        ["Definitely agree","6"]
+    ]
+}

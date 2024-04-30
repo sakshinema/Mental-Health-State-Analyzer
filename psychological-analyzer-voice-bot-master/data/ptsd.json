@@ -1,0 +1,161 @@
+{
+    "repeated disturbing and unwanted memoris of the stressful experience":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "repeated disturbing dreams of the stressful experience":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "suddenly feeling or acting as if the stressful experience were actually happening again":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "feeling very upset when something reminded you of the stressful experience":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "having strong physical reactions when something reminded you of the stressful experience":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "avoiding memories thoughts or feeling related to yhe stressful experience":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "avoiding external reminders of the stressful experience like places people conversations etc":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "trouble remembering important parts of the stressful experience":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "having strong negative beliefs about yourself other people or the world for example there is something seriously wrong with me":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "blaming yourself or someone else for the stressful experience or what happened after it":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "having string negative feeling such as fear horror anger guilt or shame":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "loss of interest in activites that you used to ejoy":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "feeling distant or cut off from other people":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "trouble experiencing positive feelings for example being unable to feel happiness or having loving feelings for people close to you":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "irritable behavior angry outbursts or acting aggressively":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "taking too much risks or doing things that could cause you harm":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "being superalert or watchful or on guard":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "feeling jumpy or easilt startled":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "having difficulty concentrating":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ],
+
+    "trouble falling or staying asleep":[
+        ["Not at all","0"],
+        ["a little bit","1"],
+        ["Moderately","2"],
+        ["quite a bit","3"],
+        ["Extremely","4"]
+    ]
+}

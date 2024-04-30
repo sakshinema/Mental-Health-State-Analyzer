@@ -1,0 +1,26 @@
+{
+    "In the past few weeks have you wished you were dead":[
+        ["yes","1"],
+        ["No","0"]
+    ],
+
+    "In the past few weeks have you felt that you or your family would be better off if you were dead":[
+        ["yes","1"],
+        ["No","0"]
+    ],
+
+    "In the past week have you been having thoughts about killing yourself":[
+        ["yes","1"],
+        ["No","0"]
+    ],
+
+    "Have you ever tried to kill yourself":[
+        ["yes","1"],
+        ["No","0"]
+    ],
+
+    "Are you having thoughts of killing yourself right now":[
+        ["yes","1"],
+        ["No","0"]
+    ]
+}
